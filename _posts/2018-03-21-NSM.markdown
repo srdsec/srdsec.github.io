@@ -1,15 +1,14 @@
 ---
-title:  "Network Security Monitoring (NSM)"
-date:   2018-03-21 22:04:23
-categories: [PBCT3CH]
-tags: [PBCT3CH]
+title: "Network Security Monitoring (NSM)"
+date: 2018-03-21 22:04:23 -0400
+categories: [Blue Team]
+tags: [nsm, security-onion, pcap]
 ---
 
-Over the last year few years I have found myself implementing a combination of Security point products and Open-Source tools to supplement.  My favorite collection of open-source tools is the Security Onion NSM stack by Doug Burks.  I've been running this for the past 4 years and have come to depend on it.
+Over the last few years I have found myself implementing a combination of security point products and open-source tools to supplement. My favorite collection of open-source tools is the Security Onion NSM stack by Doug Burks. I've been running this for the past 4 years and have come to depend on it.
 
-I'm currently building a new 10G capable system that will have good retention for extended PCAP collection.  I will share the hardware buildout once we finalize the materials list.
+I'm currently building a new 10G capable system that will have good retention for extended PCAP collection. I will share the hardware buildout once we finalize the materials list.
 
 Keep a lookout for the information in the next few weeks.
 
-https://securityonion.net/
 [Security Onion](https://securityonion.net/)
